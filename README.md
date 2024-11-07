@@ -11,7 +11,7 @@
 
 1. Склонируйте репозиторий плагина:
    ```bash
-   git clone <URL вашего репозитория>
+   git clone https://github.com/pcj-leha/Generator_Project_Structure.git
    ```
 
 2. Выполните команду для создания .vsix файла:
